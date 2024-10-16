@@ -34,11 +34,10 @@ java NumberGuessingGameTimeLimit
 
 ### Example Gameplay
 
-Choose the difficulty level:
-Option 1: Guess a number between 1 and 100.
-Option 2: Guess a number between 1 and 1000.
+#### Choose the difficulty level:
+Option 1: Guess a number between 1 and 100. <br>
+Option 2: Guess a number between 1 and 1000. <br>
 Start guessing the number. The game provides hints after each guess, such as:
-"Number too low, increase the number."
-"Number too high, decrease the number."
-Win the game by guessing the correct number or lose by running out of time or attempts.
-Contributions
+"Number too low, increase the number." <br>
+"Number too high, decrease the number." <br>
+Win the game by guessing the correct number or lose by running out of time or attempts.<br> 
