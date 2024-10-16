@@ -1,7 +1,8 @@
 # **Number Guessing Game with Time Limit**
 
 
-**Project Overview: **
+### Project Overview: 
+<br>
 The Number Guessing Game with Time Limit is a simple console-based game where the player must guess a randomly generated number within a specified range. The player has a limited number of attempts and a time limit to guess the correct number. The game offers two difficulty levels with different ranges and time limits.
 
 Features
