@@ -1,4 +1,4 @@
-#**Number Guessing Game with Time Limit**
+# **Number Guessing Game with Time Limit**
 
 
 **Project Overview**
@@ -26,13 +26,13 @@ Compile the Java file:
 
 javac NumberGuessingGameTimeLimit.java
 
-
-Run the game:
+### Run the game:
 
 java NumberGuessingGameTimeLimit
 
 
-Example Gameplay
+### Example Gameplay
+
 Choose the difficulty level:
 Option 1: Guess a number between 1 and 100.
 Option 2: Guess a number between 1 and 1000.
